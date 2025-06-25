@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "id": "yamaha-a-s801-3gkf92",
+      "brand": "Yamaha",
+      "model": "A-S801",
+      "type": "Integrated Amplifier",
+      "power_output": "100W per channel (8 ohms)",
+      "inputs": ["USB DAC", "Coaxial", "Optical", "Line In", "Phono"],
+      "features": [
+        "DAC med DSD og PCM",
+        "Subwoofer output",
+        "Pure Direct Mode"
+      ],
+      "price": 6499,
+      "description": "Yamaha A-S801 er en Integrated Amplifier med 100W per channel (8 ohms). Den har indgange som USB DAC, Coaxial, Optical, Line In, Phono og funktioner som DAC med DSD og PCM, Subwoofer output, Pure Direct Mode."
+    },
+    {
+      "id": "marantz-pm6007-zx83jd",
+      "brand": "Marantz",
+      "model": "PM6007",
+      "type": "Integrated Amplifier",
+      "power_output": "45W per channel (8 ohms)",
+      "inputs": ["2x Optical", "1x Coaxial", "5x Analog", "Phono"],
+      "features": [
+        "HDAM-SA3 teknologi",
+        "Digitale filtre",
+        "A/B speaker output"
+      ],
+      "price": 3999,
+      "description": "Marantz PM6007 er en Integrated Amplifier med 45W per channel (8 ohms). Den har indgange som 2x Optical, 1x Coaxial, 5x Analog, Phono og funktioner som HDAM-SA3 teknologi, Digitale filtre, A/B speaker output."
+    },
+    {
+      "id": "cambridge-audio-cxa81-wl7zq0",
+      "brand": "Cambridge Audio",
+      "model": "CXA81",
+      "type": "Integrated Amplifier",
+      "power_output": "80W per channel (8 ohms)",
+      "inputs": ["USB", "Coaxial", "Optical", "XLR", "RCA"],
+      "features": ["ESS Sabre DAC", "Bluetooth aptX HD", "Preamp Out"],
+      "price": 7499,
+      "description": "Cambridge Audio CXA81 er en Integrated Amplifier med 80W per channel (8 ohms). Den har indgange som USB, Coaxial, Optical, XLR, RCA og funktioner som ESS Sabre DAC, Bluetooth aptX HD, Preamp Out."
+    },
+    {
+      "id": "nad-c-316bee-v2-qlx2mt",
+      "brand": "NAD",
+      "model": "C 316BEE V2",
+      "type": "Integrated Amplifier",
+      "power_output": "40W per channel (8 ohms)",
+      "inputs": ["Line In", "Phono", "Aux"],
+      "features": [
+        "Phono MM input",
+        "PowerDrive teknologi",
+        "Headphone output"
+      ],
+      "price": 2799,
+      "description": "NAD C 316BEE V2 er en Integrated Amplifier med 40W per channel (8 ohms). Den har indgange som Line In, Phono, Aux og funktioner som Phono MM input, PowerDrive teknologi, Headphone output."
+    },
+    {
+      "id": "denon-pma-900hne-xe9dp7",
+      "brand": "Denon",
+      "model": "PMA-900HNE",
+      "type": "Network Integrated Amplifier",
+      "power_output": "85W per channel (8 ohms)",
+      "inputs": [
+        "HDMI ARC",
+        "Optical",
+        "Coaxial",
+        "Phono",
+        "Wi-Fi",
+        "Bluetooth",
+        "Ethernet"
+      ],
+      "features": ["HEOS multiroom", "Voice Control", "High-Res Audio support"],
+      "price": 6490,
+      "description": "Denon PMA-900HNE er en Network Integrated Amplifier med 85W per channel (8 ohms). Den har indgange som HDMI ARC, Optical, Coaxial, Phono, Wi-Fi, Bluetooth, Ethernet og funktioner som HEOS multiroom, Voice Control, High-Res Audio support."
+    }
+  ]
+}
