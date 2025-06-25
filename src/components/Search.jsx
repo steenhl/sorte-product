@@ -61,7 +61,6 @@ export default function Search({ searchType, url }) {
         }
         else {
             dialogRef.current.close();
-
         }
 
     }, [search, searchResults])
